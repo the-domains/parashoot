@@ -1,0 +1,11 @@
+layout_spectrum: 0.4489362
+typography_spectrum: 1
+color:
+  lightness: 1
+  brandStrength: 0.9106383
+  saturation: 0.8893617
+  rhythmicContrast: 0.8356244
+  brandColors:
+    - '#5C8080'
+    - '#B4BBB0'
+name: ParaShoot
